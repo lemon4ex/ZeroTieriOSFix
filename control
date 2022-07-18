@@ -1,0 +1,9 @@
+Package: com.byteage.zerotieriosfix
+Name: ZeroTieriOSFix
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: h4ck1n
+Author: h4ck1n
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
