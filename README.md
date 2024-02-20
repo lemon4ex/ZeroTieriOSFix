@@ -2,7 +2,7 @@
 
 A Tweak that allows `ZeroTier One` app to use custom planetary servers.
 
-Developed based on the `v1.8.10` version, it should only support the `v1.8.10` version, other versions can be implemented by referring to the code.
+Developed based on the `v1.12.2` version, other versions can be implemented by referring to the code.
 
 This Tweak is currently for personal use and will not be updated in time.
 
@@ -17,7 +17,7 @@ First, modify the source code according to the [内网穿透工具 ZeroTier 的�
 
 一个允许 `ZeroTier One` 应用使用自定义的行星服务器的 `Tweak`。
 
-基于`v1.8.10`版本开发，应该只支持`v1.8.10`版本，其他版本可以参考代码自行实现。
+基于`v1.12.2`版本开发并测试通过，其他版本可以参考代码自行实现。
 
 此插件目前是自用的，不会及时更新。
 
